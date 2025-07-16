@@ -22,11 +22,6 @@ Aplikasi desktop berbasis Java untuk membantu pelaku Usaha Mikro, Kecil, dan Men
 
 ---
 
-## 📸 Screenshot
-> *(Tambahkan screenshot aplikasi di sini untuk memperjelas tampilan dan fitur)*
-
----
-
 ## 🚀 Cara Instalasi & Menjalankan Project
 
 1. **Clone repository ini:**
